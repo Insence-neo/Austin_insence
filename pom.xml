@@ -7,8 +7,11 @@
 
     <!--申明子模块-->
     <modules>
-        <module>web</module>
-        <module>web</module>
+        <module>austin-web</module>
+        <module>austin-service-api</module>
+        <module>austin-service-api-impl</module>
+        <module>austin-common</module>
+        <module>austin-support</module>
     </modules>
 
     <parent>

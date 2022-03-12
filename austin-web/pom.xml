@@ -9,7 +9,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>web</artifactId>
+    <artifactId>austin-web</artifactId>
 
     <!--springboot 默认依赖-->
     <dependencies>
